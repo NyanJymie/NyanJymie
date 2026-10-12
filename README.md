@@ -2,6 +2,5 @@
 
   <h1>ฅ^•ﻌ•^ฅ</h1>
 
-</div>
-<img width="1080" height="1433" alt="53155" src="https://github.com/user-attachments/assets/82422864-5f5e-4b5d-87c7-8adfb1e135cd" /> <img width="1080" height="1268" alt="53156" src="https://github.com/user-attachments/assets/ab2c62b3-c665-4f56-8884-a2a31f30b496" />
+<img width="1080" height="1429" alt="53164" src="https://github.com/user-attachments/assets/9276b343-463c-4581-b6b8-362454f6075f" /> <img width="1080" height="1211" alt="53165" src="https://github.com/user-attachments/assets/a9e294ca-9ce9-4ed9-922c-44b74e213ad6" />
 
